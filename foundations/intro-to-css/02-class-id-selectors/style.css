@@ -1,0 +1,17 @@
+.pink_class {
+    background-color: #ffc0cb;
+}
+
+.pink_class.adj_font {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+#blue_id {
+    font-size: 22px;
+    color: #0000ff;
+}
+
+#green_id {
+    background-color: #adff2f;
+}
